@@ -1,13 +1,1 @@
-.DS_Store
-.Trash/
-node_modules/
-*.log
-*.swp
-target/
-*.class
-*.iml
-/.idea/
-/.vscode/
-/out/
-/bin/
-/build/
+
